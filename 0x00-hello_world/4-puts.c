@@ -1,12 +1,13 @@
-/* A program to print "Programming is like building a multilingual puzzle"
+/* This is a program to print a single line using the puts function.
  */
 #include <stdio.h>
 
-/*This is the main method of the program
- * We are using puys function to print the line
+/** main - this is the main method. 
+ * The line should print the line followed by a new line
+ * The program should return 0
  */
 int main (void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("/"Programming is like building a multilingual puzzle");
 	return (0);
 }
