@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* main - entry point
+
+/** main - entry point
  *
  * Use printf function to print the line
  *
