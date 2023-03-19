@@ -4,6 +4,7 @@
  * main - entry point
  *
  * Print predefined input - using write function
+ * to stderr
  *
  * Return: 1
  */
