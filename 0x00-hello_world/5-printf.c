@@ -1,5 +1,3 @@
-/* A program to print a line using printf function
- */
 #include <stdio.h>
 
 /* main - entry point
