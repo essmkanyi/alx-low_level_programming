@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - entry point
+/**
+ * main - entry point
  * Description - using if...else if to know whether integer is +ve or -ve
  * Return: 0
  */
