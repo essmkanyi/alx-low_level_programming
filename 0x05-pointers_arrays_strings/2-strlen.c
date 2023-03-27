@@ -3,7 +3,7 @@
 /**
  * _strlen - a function
  * Description: returns the length of a string
- *@s: string to get length of 
+ *@s: string to get length of
  * Return: length of the string
  */
 
@@ -11,9 +11,9 @@ int _strlen(char *s)
 {
 	int strl = 0;
 
-	while(*s++)
+	while (*s++)
 	{
-		
+
 		strl++;
 
 	}
