@@ -27,7 +27,8 @@ int is_palindrome(char *s)
  *     * @i: String array index
  *      *
  *       * Return: 1 if string is palindrome and 0 if otherwise.
- *        */
+ */
+
 int check(char *s, int j, int i)
 {
 		if (s[i] == s[j / 2])
@@ -46,7 +47,8 @@ int check(char *s, int j, int i)
  *   * @s: The string to be measured.
  *    *
  *     * Return: The length of string.
- *      */
+ */
+
 int str_len(char *s)
 {
 		int j = 0;
